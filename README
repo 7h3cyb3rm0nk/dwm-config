@@ -42,7 +42,9 @@ like this in your .xinitrc:
     exec dwm
 
 
-Configuration
+Requirements
 -------------
-The configuration of dwm is done by creating a custom config.h
-and (re)compiling the source code.
+Picom
+Dwmblocks
+Nitrogen
+Hack Nerd Font
