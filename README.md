@@ -53,7 +53,7 @@ exec dwm
 
 ## Instructions
 
-- place [autostart.sh](https://github.com/7h3cyb3rm0nk/dwm-config/autostart.sh](https://github.com/7h3cyb3rm0nk/dwm-config/blob/master/autostart.sh) into `~/.dwm/` directory for startup scripts
+- place [autostart.sh](https://github.com/7h3cyb3rm0nk/dwm-config/blob/master/autostart.sh) into `~/.dwm/` directory for startup scripts
 - dwmblocks configs can be found [here](https://github.com/7h3cyb3rm0nk/dwmblocks-config)
 
 
