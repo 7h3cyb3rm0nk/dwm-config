@@ -57,4 +57,6 @@ exec dwm
 - dwmblocks configs can be found [here](https://github.com/7h3cyb3rm0nk/dwmblocks-config)
 
 
+## Screenshots
 
+![blackarch-dwm](https://github.com/7h3cyb3rm0nk/dwm-config/blob/master/screenshots/blackarch-dwm.png)
